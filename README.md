@@ -1,6 +1,6 @@
 cab service 
 ##### &nbsp;
 
-<img src="images/cab.png" width="100%" align="top-left" alt="" title="RNN" />
+<img src="cab.png" width="100%" align="top-left" alt="" title="RNN" />
 
 *
